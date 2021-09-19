@@ -1,0 +1,8 @@
+oi, eu estou aqui digitando o protótipo (eu acho que se escreve assim) do meu jogo do roblox.
+o jogo vai ser desse jeito:
+o jogador, primeiramente , vai ter que entrar num grupo privado (para evitar hackers)
+então, desse jeito, ele vai ter acesso ao jogo e vai começar com seu personagem normal. então em cima do jogador terá seu nome e nível, que no caso será 0 no começo.
+aí, ele poderá comprir missões e lutar contra jogadores (se os dois estiverem concordado, sendo assim, tendo que enviar um pedido de batalha.)
+o jogador irá gachar um tipo de "dinheiro" no jogo, que vai poder fazer que ele possa comprar roupas, chapéus e acessórios para customisar seu personagem.
+támbem terá o   servidor VIP, que eu quero fazer por un 30 robux, e o VIP  para colocar códigos de cutomização, que já farei na média de 300 robux.
+bom, esse é o protótipo do meu jogo.
